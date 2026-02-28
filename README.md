@@ -2,9 +2,7 @@
 
 A modern SwiftUI + SwiftData grocery list application built with a clean, product-focused architecture and polished UI.
 
-📸 Screenshots
-
-(Insert screenshots here)
+<img width="1320" height="2868" alt="App Screenshot" src="https://github.com/user-attachments/assets/89174f7a-5210-4116-ba95-6a1158823be1" />
 
 # ✨ Features
 
