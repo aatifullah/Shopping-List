@@ -2,11 +2,12 @@
 
 A modern SwiftUI + SwiftData grocery list application built with a clean, product-focused architecture and polished UI.
 
-<img width="1320" height="2868" alt="App Screenshot" src="https://github.com/user-attachments/assets/89174f7a-5210-4116-ba95-6a1158823be1" />
+<img width="300" height="2868" alt="App Screenshot" src="https://github.com/user-attachments/assets/89174f7a-5210-4116-ba95-6a1158823be1" />
 
 # ✨ Features
 
-# 🛒 Add Items
+
+***🛒 Add Items***
 
 Add grocery items with a name and category
 
@@ -16,7 +17,8 @@ Smooth keyboard dismissal
 
 Clean, modern card-based layout
 
-# 🗂 Filtering & Organization
+
+***🗂 Filtering & Organization***
 
 Filter items by category
 
@@ -28,7 +30,8 @@ Items grouped visually by category
 
 Incomplete items sorted before completed
 
-# ✅ Manage Items
+
+***✅ Manage Items***
 
 Mark items as completed
 
@@ -38,7 +41,8 @@ Delete items
 
 Animated state updates
 
-# 🎨 UI/UX
+
+***🎨 UI/UX***
 
 Modern SwiftUI layout (no default List styling)
 
@@ -54,7 +58,8 @@ Empty state handling
 
 Tap anywhere to dismiss keyboard
 
-# 🧱 Tech Stack
+
+***🧱 Tech Stack***
 
 SwiftUI
 
@@ -66,7 +71,8 @@ Native iOS system colors
 
 Modern iOS design patterns
 
-# 🏗 Architecture
+
+***🏗 Architecture***
 
 This project follows a clean separation of concerns:
 
@@ -110,7 +116,8 @@ GroceryItem (SwiftData model)
 
 Category enum
 
-# 🚀 How to Run
+
+***🚀 How to Run***
 
 Clone the repository
 
@@ -120,7 +127,8 @@ Run on simulator or device
 
 No additional setup required.
 
-# 📱 Requirements
+
+***📱 Requirements***
 
 iOS 17+
 
